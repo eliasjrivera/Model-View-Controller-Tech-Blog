@@ -5,7 +5,7 @@ const Sequelize = require('../config/connection');
 // Get all posts ('/')
 router.get('/', async (req, res) => {
     try {
-          // Retrieve all posts from db
+        // Retrieve all posts from db
         const dbPostData = await Post.findAll({ 
             attributes: ['id', 'title', 'content', 'created_at'],           
             include: [
