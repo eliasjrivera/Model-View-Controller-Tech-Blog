@@ -69,13 +69,15 @@ THEN I am able to view posts and comments but I am prompted to log in again befo
 [Elias Rivera GitHub Repo](https://github.com/eliasjrivera/Model-View-Controller-Tech-Blog)
 
 ## Deployed Site
-[MERN: Book Search Engine Deployed Site]()
+[MVC: Tech Blog Deployed Site](https://eliasjrivera.github.io/Model-View-Controller-Tech-Blog/)
 
 ## Installation
-1. Install mongoDB
-2. `git clone git@github.com:eliasjrivera/MERN-Book-Search-Engine.git`
-3. `npm install`
-4. `npm run start`
+1. `git clone git@github.com:eliasjrivera/MERN-Book-Search-Engine.git`
+2. `npm install`
+3. `mysql -u root -p`
+4. `source db/schema.sql`
+5. `quit;`
+6. `npm run start`
 
 ## Usage
 Open deployed site link
@@ -92,4 +94,4 @@ Contributors should read the installation section.
 Elias Rivera
 
 ## Project Status
-Project is not finished
+Project is finished
