@@ -1,4 +1,4 @@
-# Model-View-Controller-Tech-Blog
+# Model View Controller: Tech Blog
 
 ## Table of Contents
 - [Description](#description)
@@ -69,10 +69,10 @@ THEN I am able to view posts and comments but I am prompted to log in again befo
 [Elias Rivera GitHub Repo](https://github.com/eliasjrivera/Model-View-Controller-Tech-Blog)
 
 ## Deployed Site
-[MVC: Tech Blog Deployed Site](https://secret-reaches-14806-ae6c617c547b.herokuapp.com/)
+[Model View Controller: Tech Blog Deployed Site](https://secret-reaches-14806-ae6c617c547b.herokuapp.com/)
 
 ## Installation
-1. `git clone git@github.com:eliasjrivera/MERN-Book-Search-Engine.git`
+1. `git clone git@github.com:eliasjrivera/Model-View-Controller-Tech-Blog.git`
 2. `npm install`
 3. `mysql -u root -p`
 4. `source db/schema.sql`
