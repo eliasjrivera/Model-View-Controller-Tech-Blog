@@ -69,7 +69,7 @@ THEN I am able to view posts and comments but I am prompted to log in again befo
 [Elias Rivera GitHub Repo](https://github.com/eliasjrivera/Model-View-Controller-Tech-Blog)
 
 ## Deployed Site
-[MVC: Tech Blog Deployed Site](https://eliasjrivera.github.io/Model-View-Controller-Tech-Blog/)
+[MVC: Tech Blog Deployed Site](https://secret-reaches-14806-ae6c617c547b.herokuapp.com/)
 
 ## Installation
 1. `git clone git@github.com:eliasjrivera/MERN-Book-Search-Engine.git`
